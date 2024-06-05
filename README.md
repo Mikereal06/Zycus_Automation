@@ -6,12 +6,12 @@
 
 1. robotframework-seleniumlibrary
 ```
-pip install robotframework-seleniumlibrary
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org robotframework-seleniumlibrary
 ```
 
 2. pyautogui
 ```
-pip install pyautogui
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pyautogui
 ```
 
 3. Download chromedriver
@@ -22,5 +22,5 @@ Chromedriver: [Copy and paste to Chrome browser](https://storage.googleapis.com/
 
 4. Install python_dotenv
 ```
-pip install python-dotenv
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org python-dotenv
 ```
